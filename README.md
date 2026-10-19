@@ -80,27 +80,3 @@ The main compiler uses a defined set of JSON fields and does not enforce the ful
 
 
 This public download includes generic sample prompts. Supply your own reference images and keep API keys and private configuration outside version control. No automated image-quality evaluation or measured business results are claimed.
-
----
-
-## Validation
-
-The README was checked against the local scripts and their actual command-line arguments. A fresh paid image-generation request has not been run as part of this documentation update.
-
----
-
-## Project structure
-
-```text
-generate.py
-requirements.txt
-GEMINI.md
-.agents/skills/nano-banana/
-prompts/
-  people/
-  products/
-  infographics/
-  photography/
-  miscellaneous/
-images/
-```

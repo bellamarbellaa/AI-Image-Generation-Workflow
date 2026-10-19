@@ -1,0 +1,40 @@
+{
+  "title": "Young Woman Beauty Product - Documentary Realism",
+  "category": "people",
+  "model": "gemini-3.1-flash-image",
+  "subject": {
+    "entity": "A 24-year-old woman holding a minimalist glass skincare serum bottle towards the camera",
+    "details": "Visible skin pores, authentic micro-blemishes, subtle laugh lines, natural peach fuzz along the cheek, delicate catchlights in dark brown eyes, unretouched real skin texture",
+    "expression_or_state": "Relaxed, genuine candid expression, subtle soft smile",
+    "wardrobe_or_material": "Oversized neutral beige ribbed knit sweater, textured organic wool"
+  },
+  "composition": {
+    "framing": "Medium close-up portrait",
+    "camera_angle": "Eye level, slightly three-quarters angle",
+    "lens": "85mm f/1.8 prime portrait lens",
+    "depth_of_field": "Shallow depth of field with gentle organic background blur, tack-sharp focus on the woman's eyes and the serum bottle",
+    "focus_point": "Eyes and serum bottle label"
+  },
+  "lighting": {
+    "type": "Diffused north-facing window light",
+    "direction": "Side-lit from camera left with natural gentle shadow falloff across right cheek",
+    "color_temperature": "5200K natural daylight",
+    "shadows": "Soft, gradual gradient falloff without harsh edges"
+  },
+  "environment": {
+    "location": "Naturally lit modern apartment interior",
+    "background_elements": "Subtle out-of-focus Monstera plant leaf and soft neutral linen curtains in deep background bokeh",
+    "atmosphere": "Airy, calm morning light, clean quiet environment"
+  },
+  "style": {
+    "aesthetic": "Documentary realism, 35mm photojournalism aesthetic, raw authenticity",
+    "film_stock_or_sensor": "Shot on 35mm film stock, delicate subtle grain, Leica M optical rendering",
+    "color_grading": "Earthy muted tones, natural accurate Caucasian skin tones, uncompressed dynamic range"
+  },
+  "technical": {
+    "aspect_ratio": "4:5",
+    "image_size": "2K",
+    "google_search_grounding": false
+  },
+  "negative_prompt": "cartoon, 3D CGI animation, plastic waxy skin, heavy airbrushing, airbrushed porcelain look, exaggerated makeup, oversaturated colors, blurry, deformed hands, extra fingers, stock photo fake grin, studio backdrop"
+}

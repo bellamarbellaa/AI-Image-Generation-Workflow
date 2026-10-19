@@ -1,0 +1,40 @@
+{
+  "title": "Photosynthesis Botanical Infographic Diagram",
+  "category": "infographics",
+  "model": "gemini-3.1-flash-image",
+  "subject": {
+    "entity": "Clean educational scientific infographic detailing the process of photosynthesis inside a plant leaf",
+    "details": "Clear directional arrows, molecular formulas '6CO2 + 6H2O -> C6H12O6 + 6O2', chloroplast cross-section with thylakoid disks, clear legible typography",
+    "expression_or_state": "Detailed biological cross-section illustration",
+    "wardrobe_or_material": "Scientific visual journal layout, crisp graphic vector lines and realistic cellular textures"
+  },
+  "composition": {
+    "framing": "Wide educational poster layout",
+    "camera_angle": "Direct flat layout, isometric cross-section in center",
+    "lens": "Flat planar orthographic rendering",
+    "depth_of_field": "Completely sharp edge-to-edge depth of field (f/11 equivalent)",
+    "focus_point": "All diagram labels and cellular structures"
+  },
+  "lighting": {
+    "type": "Clean even studio illumination",
+    "direction": "Uniform shadowless scientific lighting with golden sunbeam arrow entering leaf top representing sunlight energy",
+    "color_temperature": "5500K neutral white",
+    "shadows": "Minimal subtle drop shadows beneath graphic labels"
+  },
+  "environment": {
+    "location": "Scientific publication card with clean off-white parchment background",
+    "background_elements": "Subtle botanical grid lines and measurement scales",
+    "atmosphere": "Scholarly, authoritative, modern botanical poster"
+  },
+  "style": {
+    "aesthetic": "Modern National Geographic scientific infographic",
+    "film_stock_or_sensor": "High-resolution vector-quality digital typography and rendering",
+    "color_grading": "Lush chlorophyll greens, warm solar yellows, crisp clean carbon blues"
+  },
+  "technical": {
+    "aspect_ratio": "16:9",
+    "image_size": "2K",
+    "google_search_grounding": true
+  },
+  "negative_prompt": "misspelled text, blurry labels, illegible diagram, distorted arrows, chaotic layout, messy handwriting, low resolution, 3d glitch"
+}

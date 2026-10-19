@@ -1,0 +1,40 @@
+{
+  "title": "Luxury Cologne Bottle - Oceanic Freshness Campaign",
+  "category": "products",
+  "model": "gemini-3.1-flash-image",
+  "subject": {
+    "entity": "Heavyweight square glass cologne bottle with dark metallic cap standing on wet dark basalt rock",
+    "details": "Crisp micro-droplets of sea mist clinging to the cool glass surface, clear liquid inside casting caustics, clean embossed metallic lettering 'AQUA NOIR' and '100ml 3.4 FL. OZ.' on bottle face",
+    "expression_or_state": "Heroic product stance surrounded by gentle ocean splash",
+    "wardrobe_or_material": "Flint glass, gunmetal brushed aluminum cap, rugged volcanic basalt stone"
+  },
+  "composition": {
+    "framing": "Three-quarters hero product shot",
+    "camera_angle": "Low angle looking slightly upward at the bottle",
+    "lens": "90mm f/4.0 macro lens",
+    "depth_of_field": "Sharp focus across entire bottle from label to nozzle, soft wave spray in deep background",
+    "focus_point": "Front logo label and water beads on glass"
+  },
+  "lighting": {
+    "type": "Moody coastal twilight mixed with a focused 5600K studio strobe kicker",
+    "direction": "Backlit rim light accentuating the glass bottle edges with subtle front fill bounce",
+    "color_temperature": "Cool blue ambient 6500K with neutral 5600K highlight accents",
+    "shadows": "Deep moody shadows cast on dark wet stone"
+  },
+  "environment": {
+    "location": "Rugged coastal shoreline at twilight",
+    "background_elements": "Dark crashing waves with white foam spray frozen in motion, brooding dusky clouds",
+    "atmosphere": "Invigorating, mineral oceanic freshness, crisp sea spray"
+  },
+  "style": {
+    "aesthetic": "High-end luxury fragrance advertising campaign",
+    "film_stock_or_sensor": "Hasselblad H6D-100c medium format camera",
+    "color_grading": "Deep navy blues, slate grays, pristine crystal-clear highlights"
+  },
+  "technical": {
+    "aspect_ratio": "4:5",
+    "image_size": "2K",
+    "google_search_grounding": false
+  },
+  "negative_prompt": "cartoon, 3d render, plastic bottle, fake water splashes, blurred branding, illegible text, oversaturated neon, low contrast, washed out"
+}

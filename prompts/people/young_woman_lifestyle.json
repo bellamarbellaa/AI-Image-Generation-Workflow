@@ -1,0 +1,40 @@
+{
+  "title": "Young Woman Skincare Routine - Lifestyle Influencer",
+  "category": "people",
+  "model": "gemini-3.1-flash-image",
+  "subject": {
+    "entity": "Young woman in her mid-20s holding up an amber glass cosmetic dropper bottle in a bright bathroom",
+    "details": "Natural dewy skin glow, visible skin hydration, realistic pores, hair neatly tied in a messy claw clip with loose tendrils",
+    "expression_or_state": "Bright, cheerful, engaging with the camera like a beauty vlog still",
+    "wardrobe_or_material": "White waffle-weave cotton spa robe slightly open at collarbone"
+  },
+  "composition": {
+    "framing": "Close-up selfie-style portrait",
+    "camera_angle": "Eye level",
+    "lens": "35mm f/2.0 prime lens",
+    "depth_of_field": "Moderate depth of field, sharp subject with soft focus on bathroom background elements",
+    "focus_point": "Subject face and amber dropper bottle"
+  },
+  "lighting": {
+    "type": "Warm morning sunlight mixed with soft vanity mirror fill",
+    "direction": "Front-three-quarters diffused illumination",
+    "color_temperature": "4800K balanced warm daylight",
+    "shadows": "Minimal soft shadows under chin"
+  },
+  "environment": {
+    "location": "Modern minimalist bathroom",
+    "background_elements": "Marble countertop with subtle glass jars, neatly rolled towels, brass fixtures softly blurred in background",
+    "atmosphere": "Fresh morning routine aesthetic, clean and radiant"
+  },
+  "style": {
+    "aesthetic": "High-end lifestyle influencer photography, premium editorial social post",
+    "film_stock_or_sensor": "Sony A7R V sensor, crisp optical acuity with smooth organic roll-off",
+    "color_grading": "Bright, clean whites, vibrant skin warmth, pastel accents"
+  },
+  "technical": {
+    "aspect_ratio": "9:16",
+    "image_size": "2K",
+    "google_search_grounding": false
+  },
+  "negative_prompt": "cartoon, 3d render, plastic skin, waxy face, excessive blur, mutated digits, disfigured hands, oversaturated yellow skin, low resolution, watermark"
+}
